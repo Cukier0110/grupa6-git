@@ -1,0 +1,2 @@
+ if (x<=pierwsze.a+pierwsze.r1 && x>=pierwsze.a-pierwsze.r1 && y<=pierwsze.b+pierwsze.r1 && y>=pierwsze.b-pierwsze.r1)
+        printf("\nPunkty mieszcza sie w malym kole \n");
