@@ -1,0 +1,21 @@
+#include <stdio.h>
+#define ROZMIAR 50
+struct kolo
+{
+	int numer;
+    char nazwa [ROZMIAR];
+	int a;
+	int b;
+	int r1;
+};
+int main()
+{
+    int x,y;
+    double polem, poles, poled, pi=3.141592;
+    struct kolo pierwsze = {"1","najmniejsze",1,1,1};
+    struct kolo drugie = {"2","srednie",20,20,10};
+	struct kolo trzecie = {"3","duze",100,100,50};
+
+    printf("\nPodaj 2 liczby: ");
+    scanf("%d", &x);
+    scanf("%d", &y);
