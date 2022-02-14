@@ -1,0 +1,11 @@
+     printf("\nPunkty poza kolami \n");
+
+    polem=pi*pierwsze.r1*pierwsze.r1;
+    poles=pi*drugie.r1*drugie.r1;
+    poled=pi*trzecie.r1*trzecie.r1;
+
+    printf(" \nPole najmniejszego kola wynosi: %f \n", polem);
+    printf("Pole sredniego kola wynosi: %f \n", poles);
+    printf("Pole duzego kola wynosi: %f \n", poled);
+
+ return 0;
