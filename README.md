@@ -1,1 +1,2 @@
-# grupa6-git
+# plik edytowany
+
