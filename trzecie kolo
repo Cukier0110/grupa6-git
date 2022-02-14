@@ -1,0 +1,2 @@
+else if (x<=trzecie.a+trzecie.r1 && x>=trzecie.a-trzecie.r1 && y<=trzecie.b+trzecie.r1 && y>=trzecie.b-trzecie.r1 )
+        printf("\nPunkty mieszcza sie w duzym kole \n");
