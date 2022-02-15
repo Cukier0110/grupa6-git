@@ -20,4 +20,4 @@ int main()
     scanf("%d", &x);
     scanf("%d", &y);
 
-//dodać %n żeby ładniej się wyświetlało 
+
