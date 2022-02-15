@@ -20,4 +20,4 @@ int main()
     scanf("%d", &x);
     scanf("%d", &y);
 
-//myśle ze nie powinno być błędów 
+
