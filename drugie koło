@@ -1,3 +1,4 @@
 else if (x<=drugie.a+drugie.r1 && x>=drugie.a-drugie.r1 && y<=drugie.b+drugie.r1 && y>=drugie.b-drugie.r1)
         printf("\nPunkty mieszcza sie w srednim kole \n");
-//dodać przejrzystość 
+
+==
