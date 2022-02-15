@@ -19,3 +19,5 @@ int main()
     printf("\nPodaj 2 liczby: ");
     scanf("%d", &x);
     scanf("%d", &y);
+
+//myśle ze nie powinno być błędów 
